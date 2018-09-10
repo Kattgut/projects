@@ -1,0 +1,18 @@
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\bin\Debug\Moja biblioteczka.exe.config
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\obj\Debug\Moja biblioteczka.csprojResolveAssemblyReference.cache
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\obj\Debug\Moja_biblioteczka.Properties.Resources.resources
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\obj\Debug\Moja biblioteczka.csproj.GenerateResource.Cache
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\bin\Debug\Moja biblioteczka.exe
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\bin\Debug\Moja biblioteczka.pdb
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\obj\Debug\Moja biblioteczka.exe
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\obj\Debug\Moja biblioteczka.pdb
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\obj\Debug\Moja_biblioteczka.Dokupienia.resources
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\obj\Debug\Moja_biblioteczka.Doprzeczytania.resources
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\obj\Debug\Moja_biblioteczka.przeczytane.resources
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\bin\Debug\EntityFramework.dll
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\bin\Debug\EntityFramework.xml
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\obj\Debug\Moja_biblioteczka.Form1.resources
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\obj\Debug\Moja_biblioteczka.slabaKsiazka.resources
+C:\Users\KASIA\Desktop\Moja biblioteczka\Moja biblioteczka\bin\Debug\Images\polki.png
